@@ -1,0 +1,26 @@
+//REFERENCE
+/*Using IRrecvDemo
+FD00FF	Vol-
+FD807F	play/pause
+FD40BF	vol+
+FD20DF	setup
+FDA05F	up
+FD609F	stop/mode
+FD10EF	left
+FD906F	enter/save	
+FD50AF	right
+FD30CF	0/10+
+FDB04F	down
+FD708F	return
+FD08F7	1
+FD8877	2
+FD48B7	3
+FD28D7	4
+FDA857	5
+FD6897	6
+FD18E7	7
+FD9867	8
+FD58A7	9
+*/
+
+
